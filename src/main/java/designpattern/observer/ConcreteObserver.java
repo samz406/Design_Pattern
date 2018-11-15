@@ -1,7 +1,7 @@
 package designpattern.observer;
 
 /**
- * @author 2018-11-13 14:23 电子招投标产品部/lilin
+ * @author 2018-11-13 14:23
  */
 public class ConcreteObserver implements Observer {
 

@@ -3,7 +3,7 @@ package designpattern.observer;
 import java.util.Vector;
 
 /**
- * @author 2018-11-13 14:48 电子招投标产品部/lilin
+ * @author 2018-11-13 14:48
  */
 public abstract class Subject {
 

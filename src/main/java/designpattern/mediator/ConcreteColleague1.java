@@ -1,7 +1,7 @@
 package designpattern.mediator;
 
 /**
- * @author 2018-11-15 14:35 电子招投标产品部/lilin
+ * @author 2018-11-15 14:35
  */
 public class ConcreteColleague1 extends Colleague {
 
