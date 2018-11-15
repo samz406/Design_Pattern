@@ -12,7 +12,7 @@ package designpattern.mediator;
  */
 public abstract class Colleague {
 
-    private Mediator mediator;
+    protected Mediator mediator;
 
     public Colleague(Mediator _mediator) {
         this.mediator = _mediator;
